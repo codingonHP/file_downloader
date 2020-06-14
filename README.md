@@ -1,2 +1,2 @@
-# file_downloader
-GoLang file downloader with unit test
+# file downloader
+GoLang file downloader
